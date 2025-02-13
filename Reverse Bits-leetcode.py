@@ -1,4 +1,3 @@
-
 class Solution:
     def reverseBits(self, n: int) -> int:
         ans = 0
